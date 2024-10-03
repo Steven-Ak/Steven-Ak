@@ -92,4 +92,4 @@
 ### 🌍 Languages
 
 - **Arabic:** Native  
-- **English:** Proficient  
+- **English:** Fluent  
