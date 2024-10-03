@@ -32,8 +32,9 @@
 
 #### 🏫 **Bachelor's Degree in Computer Science**
 
-- **MTI University**, Senior Year
-- **Duration:** October 2021 – Present
+- ![University Badge](https://img.shields.io/badge/MTI_University-0055A4?style=flat&logo=university&logoColor=white)
+- ![GPA Badge](https://img.shields.io/badge/GPA-3.02/4.0-brightgreen)
+- ![Duration Badge](https://img.shields.io/badge/Duration-September%202021%20–%20July%202025-yellow)
 
 ---
 
