@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Steven Akram</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Data Science & AI Specialist | Flutter Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -10,87 +10,103 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 💬 **Ask me about**: Mobile App Development, Flutter, Dart, Firebase  
-- 📫 **Reach me at**: [stevenakram2@gmail.com](mailto:stevenakram2@gmail.com) | **+201202776659**  
-- ⚡ **Fun fact**: I am passionate about creating efficient, high-performance mobile apps!  
+### 👨‍💻 About Me
+
+I am a motivated and detail-oriented individual with a solid foundation in **Data Science** and **Artificial Intelligence**, alongside strong mobile development skills with **Flutter**. I'm passionate about solving real-world problems using data and deploying intelligent mobile apps.
+
+- 🔭 **Current Interests**: AI model training, computer vision, mobile deployment  
+- 💬 **Ask me about**: Python, Machine Learning, Flutter, Dart, Firebase  
+- 📫 **Email**: [stevenakram2@gmail.com](mailto:stevenakram2@gmail.com) | 📱 **Phone**: +201202776659  
+- ⚡ **Fun fact**: I integrated a transformer model into a real-time Flutter app!
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/steven-akram" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Steven Akram" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://github.com/Steven-Ak" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" width="40" />
+  </a>
+  <a href="https://huggingface.co/stevenakram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="huggingface" height="40" width="40"/>
   </a>
 </p>
 
-<br>
+---
 
 ### 🎓 Education
 
----
-
-#### 🏫 **Bachelor's Degree in Computer Science**
-
-- ![University Badge](https://img.shields.io/badge/MTI_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.02/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-September%202021%20–%20July%202025-yellow)
+- 🏫 **MTI University**  
+  *Bachelor’s Degree in Computer Science*  
+  📅 September 2021 – July 2025  
+  📍 Cairo, Egypt  
+  🎓 GPA: 3.02 / 4.0
 
 ---
 
-<br>
+### 💼 Professional Experience
 
-# 💼 Experience
+#### 🧠 Mathematics AI Trainer  
+**Outlier AI** – Remote (2024)  
+- Evaluated LLM responses to enhance factual, mathematical, and contextual accuracy.  
+- Contributed to improving large language model reliability.
 
----
+#### 🤖 Data Science & AI Specialist  
+**Instant** – Cairo, Egypt (2025)  
+- Worked on fine-tuning and deploying vision-language models for mobile use.  
 
-## 🧑‍💻 Android Apps Developer Intern  
-**Digital Egypt Pioneers Initiative** · *Cairo, Egypt*  
-**2023 - 2024**  
-
-**Key Responsibilities:**
-- Developed mobile apps with high functionality, ensuring optimal user experience.
-
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-
----
-
-## 🖥️ Freelance Flutter Developer  
-**Self-employed**  
-**2021 - Present**  
-
-**Key Projects:**
-- **Enhanced App Performance:** Improved app efficiency by 30% through optimized code and design patterns.
-- **Agile Development:** Reduced development time by 20% using agile methodologies and streamlined coding practices.
-- **Certification Achievement:** Earned Android development certification with a 95% score.
+#### 📱 Freelance Flutter Developer  
+**Self-Employed** (2021 – Present)  
+- Built efficient and user-friendly mobile apps.  
+- Enhanced performance and implemented modern UI/UX best practices.
 
 ---
 
-<br>
+### 🚀 Projects
 
-## 🛠️ Technical Skills
+#### 🔍 PaLI-Gemma 3B Finetuning for Visual Question Answering  
+**Graduation Project** – MTI University  
+- Fine-tuned Google’s PaLI-Gemma-3B transformer on the VQA v2 dataset using LoRA.  
+- Achieved **79.35% accuracy** on EvalAI VQA leaderboard (Rank #46).  
+- Deployed via Flask REST API and integrated into a **Flutter** app.  
+🔗 [Hugging Face Model](https://huggingface.co/stevenakram/paligemma_vqav2_finetune_50P_Final)  
+🔗 [EvalAI Leaderboard](https://eval.ai/web/challenges/challenge-page/830/leaderboard/2278)
 
-### 🖥️ Programming Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-007ACC?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+---
 
-### 📱 Mobile Development
+### 🛠️ Technical Skills
+
+#### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+#### 📱 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### ☁️ Backend & Database
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+#### 📊 Data & ML Tools
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-<br>
+### 📜 Certifications
 
-## 🏅 Certifications
-
-- **Android App Development | Prompt Engineering**  
-- **Data Science | AI (Ongoing)**
+- 📄 [AI & Machine Learning Foundations - Sprints.ai](https://sprints.ai/en-eg/journeys/learning/1185/90157157/view-certificate)
+- 📄 [Introduction to Data Science - 365 Data Science](https://learn.365datascience.com/certificates/CC-F1CE67FC7C/)
 
 ---
 
 ### 🌍 Languages
 
-- **Arabic:** Native  
-- **English:** Fluent  
+- **Arabic**: Native  
+- **English**: Fluent  
