@@ -58,11 +58,6 @@ I am a motivated and detail-oriented individual with a solid foundation in **Dat
 **Instant** – Cairo, Egypt (2025)  
 - Worked on fine-tuning and deploying vision-language models for mobile use.  
 
-#### 📱 Freelance Flutter Developer  
-**Self-Employed** (2021 – Present)  
-- Built efficient and user-friendly mobile apps.  
-- Enhanced performance and implemented modern UI/UX best practices.
-
 ---
 
 ### 🚀 Projects
